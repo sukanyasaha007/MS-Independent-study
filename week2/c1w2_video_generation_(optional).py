@@ -22,11 +22,12 @@ In this notebook, you're going to learn about TGAN, from the paper [Temporal Gen
 For this notebook, we will be focusing on the two generators. But first, some useful imports and commands:
 """
 
+"""
 !echo Installing Library to Display gifs:
 !pip install moviepy
 !echo Downloading pre-trained weights
 !wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1mk9JdmJH79_vtQkl8zk-jDxa7xUXpck-' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1mk9JdmJH79_vtQkl8zk-jDxa7xUXpck-" -O state_normal81000.ckpt && rm -rf /tmp/cookies.txt
-
+"""
 import torch
 import torch.nn as nn
 import numpy as np
