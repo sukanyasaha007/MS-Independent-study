@@ -1,6 +1,14 @@
 ## Independent Study Learning progress
 
-In this repo I will be tracking my progress on independent study. I will start with Coursera and open ai materials on GANs and RL, google scholar papers, paper on Learning by Watching: Physical Imitation, Robot Learns To Imitate Human Demonstrations Using GAN Networks by AVID etc.,GAN resources- <https://www.coursera.org/specializations/generative-adversarial-networks-gans,GANs> in Action by Jakub Langer, RL resources-<https://www.coursera.org/specializations/reinforcement-learning>, Deep Learning by Ian Goodfellow and Yoshua Bengio
+In this repo I will be tracking my progress on independent study. I will start with Coursera and open ai materials on GANs and RL, google scholar papers, paper on Learning by Watching: Physical Imitation, Robot Learns To Imitate Human Demonstrations Using GAN Networks by AVID etc.,GAN 
+
+### Resources -
+GAN -
+    Coursera GAN Speciallization <https://www.coursera.org/specializations/generative-adversarial-networks-gans,GANs> 
+    GANs in Action by Jakub Langer, 
+RL -
+    Coursera RL Speciallization <https://www.coursera.org/specializations/reinforcement-learning>, 
+    Deep Learning by Ian Goodfellow and Yoshua Bengio
 
 ### Independent Study Goal
 
