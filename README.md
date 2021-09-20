@@ -12,8 +12,8 @@ In this repo I will be tracking my progress on independent study. I will start w
 ### Checklist for the semester
 
 - [x] Weekly report on learning outcome
-- [] Final github repo of all the assignments and projects done during the semester
-- [] Finalize plan for Spring 2022 IS project, maintain github repo for the same
+- [ ] Final github repo of all the assignments and projects done during the semester
+- [ ] Finalize plan for Spring 2022 IS project, maintain github repo for the same
 
 ### Weekly Progress
 
