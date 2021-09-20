@@ -20,8 +20,11 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 ## Independent Study Goal
 
     Weekly IS journal (Github Readme, Google Slides) and document of learning progress
+
     Weekly short projects on RL and GANs
+
     Read one-two related papers a week
+    
     Brainstorm ideas for Spring 2022 IS project
 
 ## Checklist for the semester
