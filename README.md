@@ -22,7 +22,7 @@ The generator won't output the same cat at every run, and so to ensure it's able
 
 First, you have a noise vector or those random input values you saw. You pass this into a generator represented by a neural network to produce a set of features that can pose an image of a cat or an attempt at a cat. Then this output is fed into the discriminator, which determines how real and how fake it thinks it is based on its inspection of it. Now we can compute a cost function that basically looks at how far the examples produced by the generator are being considered real by the discriminator because the generator wants this to seem as real as possible. Then from the difference between these two to then update the parameters of the generator, and that gets it to improve over time and know which direction to move it's parameters to generate something that looks more real and will fool the discriminator.
 
-![Untitled](GAN%20Learning%20Outcome%205c6a0e01058a47d7b254b8011c4cd86c/Untitled.png)
+![Untitled](GAN%20Learning%20Outcome/Untitled.png)
 
 ## Week2
 
@@ -105,7 +105,7 @@ In this notebook, you're going to build a Wasserstein GAN with Gradient Penalty 
 
 In this paper, authors introduced TadGAN, an unsupervised anomaly detection approach built on Generative Adversarial Networks (GANs). To capture the temporal correlations of time series distributions, they use LSTM Recurrent Neural Networks as base models for Generators and Critics. TadGAN is trained with cycle consistency loss to allow for effective time-series data reconstruction. They used Gazebo, Turtlebot model and GCP. Normal data from odometer data, faulty data from having crashes, broken wheel. They go discriminator output as below-
 
-![Untitled](GAN%20Learning%20Outcome%205c6a0e01058a47d7b254b8011c4cd86c/Untitled%201.png)
+![Untitled](GAN%20Learning%20Outcome/Untitled%201.png)
 
 [https://arxiv.org/pdf/2009.07769.pdf](https://arxiv.org/pdf/2009.07769.pdf)
 
