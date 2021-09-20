@@ -7,7 +7,7 @@ In this repo I will be tracking my progress on independent study.
 
 ### Weekly Progress
 
-[ul][Week-1](week1.md)
-[Week-2](week2.md)
-[Week-3](week2.md)
-[Week-4](week2.md)
+<ul> [Week-1](week1.md)</ul>
+<ul>[Week-2](week2.md)</ul>
+<ul>[Week-3](week2.md)</ul>
+<ul>[Week-4](week2.md)</ul>
