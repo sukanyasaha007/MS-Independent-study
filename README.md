@@ -4,9 +4,12 @@ In this repo I will be tracking my progress on independent study. I will start w
 
 ### Resources -
 GAN -
+
     Coursera GAN Speciallization <https://www.coursera.org/specializations/generative-adversarial-networks-gans,GANs> 
     GANs in Action by Jakub Langer, 
+
 RL -
+
     Coursera RL Speciallization <https://www.coursera.org/specializations/reinforcement-learning>, 
     Deep Learning by Ian Goodfellow and Yoshua Bengio
 
