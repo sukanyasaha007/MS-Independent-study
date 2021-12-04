@@ -21,7 +21,7 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 
     Weekly IS journal (Github Readme, Google Slides) and document of learning progress
 
-    Weekly short projects on RL and GANs
+    Mini projects on GANs
 
     Read one-two related papers a week
     
@@ -30,8 +30,8 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 ## Checklist for the semester
 
 - [x] Weekly report on learning outcome
-- [ ] Final github repo of all the assignments and projects done during the semester
-- [ ] Finalize plan for Spring 2022 IS project, maintain github repo for the same
+- [x] Final github repo of all the assignments and projects done during the semester
+- [x] Finalize plan for Spring 2022 IS project, maintain github repo for the same
 
 ## Weekly Progress
 
@@ -39,6 +39,20 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 
 [Week-2 - Batch Normalization, Pooling, Upsampling, DCGAN](week2.md)
 
-[Week-3 - Mode Collapse, Binary crossentropy, WGAN](week2.md)
+[Week-3 - Mode Collapse, Binary crossentropy, WGAN](week3.md)
 
-[Week-4 - Conditional GANs](week2.md)
+[Week-4 - Conditional GANs](week4.md)
+
+[Week-5 - Feature extraction and Evaluation](week5.md)
+
+[Week-6 - GAN Disadvantages and Bias](week6.md)
+
+[Week-7 - StyleGAN and Advancements](week7.md)
+
+[Week-8 - GANs for Data Augmentation and Privacy](week8.md)
+
+[Week-9 - Image-to-Image Translation with Pix2Pix](week9.md)
+
+[Week-10 - Unpaired Translation with CycleGAN](week10.md)
+
+[Week-11 - Project on Virtual Stylist](week11-14.md)
