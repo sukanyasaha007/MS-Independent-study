@@ -73,7 +73,7 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 
 [Paper 5 - Semi-Supervised Learning](readmes/SemiSupervisedLearning.md)
 
-[Paper 6 - Anime GAN](readmes/AnimeGAN.md)
+[Paper 6 - DCGAN](readmes/DCGAN.md)
 
 [Paper 7 - TryOnGAN](readmes/TryOnGAN.md)
 
@@ -86,3 +86,5 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 [Paper 10 - Are GANs Created Equal](readmes/AreGANsCreatedEqual.md)
 
 [Paper 11 - Buy Me That Look](readmes/BuyMeThatLook.md)
+
+
