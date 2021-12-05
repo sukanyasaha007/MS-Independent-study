@@ -71,7 +71,7 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 
 [Paper 4 - Pix2Pix and CycleGAN](readmes/Pix2Pix.md)
 
-[Paper 5 - Semi-Supervised Learning](readmes/SemiSupervisedLearning.md)
+[Paper 5 - text-2-image](readmes/text-2-image.md)
 
 [Paper 6 - DCGAN](readmes/DCGAN.md)
 
