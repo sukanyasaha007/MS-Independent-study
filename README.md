@@ -35,27 +35,27 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 
 ## Weekly Progress
 
-[Week-1 - Basic Introduction on How GAN works](week1.md)
+[Week-1 - Basic Introduction on How GAN works](readmes/week1.md)
 
-[Week-2 - Batch Normalization, Pooling, Upsampling, DCGAN](week2.md)
+[Week-2 - Batch Normalization, Pooling, Upsampling, DCGAN](readmes/week2.md)
 
-[Week-3 - Mode Collapse, Binary crossentropy, WGAN](week3.md)
+[Week-3 - Mode Collapse, Binary crossentropy, WGAN](readmes/week3.md)
 
-[Week-4 - Conditional GANs](week4.md)
+[Week-4 - Conditional GANs](readmes/week4.md)
 
-[Week-5 - Feature extraction and Evaluation](week5.md)
+[Week-5 - Feature extraction and Evaluation](readmes/week5.md)
 
-[Week-6 - GAN Disadvantages and Bias](week6.md)
+[Week-6 - GAN Disadvantages and Bias](readmes/week6.md)
 
-[Week-7 - StyleGAN and Advancements](week7.md)
+[Week-7 - StyleGAN and Advancements](readmes/week7.md)
 
-[Week-8 - GANs for Data Augmentation and Privacy](week8.md)
+[Week-8 - GANs for Data Augmentation and Privacy](readmes/week8.md)
 
-[Week-9 - Image-to-Image Translation with Pix2Pix](week9.md)
+[Week-9 - Image-to-Image Translation with Pix2Pix](readmes/week9.md)
 
-[Week-10 - Unpaired Translation with CycleGAN](week10.md)
+[Week-10 - Unpaired Translation with CycleGAN](readmes/week10.md)
 
-[Week-11 - Project on Virtual Stylist](week11-14.md)
+[Week-11-14 - Project on Virtual Stylist](readmes/week11-14.md)
 
 ## Paper Readings
 
