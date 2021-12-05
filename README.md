@@ -57,28 +57,32 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio
 
 [Week-11-14 - Project on Virtual Stylist](readmes/week11-14.md)
 
+## Final Project Report
+
+[Virtual Stylist.pdf](Virtual_Stylist.pdf)
+
 ## Paper Readings
 
-[Paper 1 - Imagenet](ImageNetSummery.md)
+[Paper 1 - Imagenet](readmes/ImageNetSummery.md)
 
-[Paper 2 - An Introduction to Variational Autoencoders](VAE.md)
+[Paper 2 - An Introduction to Variational Autoencoders](readmes/VAE.md)
 
-[Paper 3 - StyleGAN](StyleGAN.md)
+[Paper 3 - StyleGAN](readmes/StyleGAN.md)
 
-[Paper 4 - Pix2Pix and CycleGAN](Pix2Pix.md)
+[Paper 4 - Pix2Pix and CycleGAN](readmes/Pix2Pix.md)
 
-[Paper 5 - Semi-Supervised Learning](SemiSupervisedLearning.md)
+[Paper 5 - Semi-Supervised Learning](readmes/SemiSupervisedLearning.md)
 
-[Paper 6 - Anime GAN](AnimeGAN.md)
+[Paper 6 - Anime GAN](readmes/AnimeGAN.md)
 
-[Paper 7 - TryOnGAN](TryOnGAN.md)
+[Paper 7 - TryOnGAN](readmes/TryOnGAN.md)
 
-[Paper 8 - ShineON](ShineON.md)
+[Paper 8 - ShineON](readmes/ShineON.md)
 
-[Paper 9 - Wasserstein Loss](WassersteinLoss.md)
+[Paper 9 - Wasserstein Loss](readmes/WassersteinLoss.md)
 
-[Paper 9 - Self-Attention GAN](SelfAttentionGAN.md)
+[Paper 9 - Self-Attention GAN](readmes/SelfAttentionGAN.md)
 
-[Paper 10 - Are GANs Created Equal](AreGANsCreatedEqual.md)
+[Paper 10 - Are GANs Created Equal](readmes/AreGANsCreatedEqual.md)
 
-[Paper 11 - Buy Me That Look](BuyMeThatLook.md)
+[Paper 11 - Buy Me That Look](readmes/BuyMeThatLook.md)
